@@ -1,0 +1,16 @@
+input{
+    width: 40px;
+    height: 40px;
+    padding-left: 1em;
+    text-align: center;
+    margin-left:1vh;
+    margin-right:1vh;
+}
+form{
+    display: flex
+}
+button{
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
